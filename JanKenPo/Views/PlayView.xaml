@@ -4,8 +4,8 @@
              x:Class="JanKenPo.Views.PlayView"
              Title="PlayView">
     <VerticalStackLayout Margin="30" Spacing="10">
-        <FlexLayout JustifyContent="SpaceBetween">
-            <VerticalStackLayout Padding="20">
+        <FlexLayout JustifyContent="SpaceBetween" VerticalOptions="Center" HorizontalOptions="Center">
+            <VerticalStackLayout Padding="10">
                 <Label 
                     Text="Digite seu nome:"/>
             </VerticalStackLayout>
